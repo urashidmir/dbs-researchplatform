@@ -1,0 +1,770 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: ward-pro/search.php:15
+msgid " search results for"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "\"Read More\" Text"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-header.php:24
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:396
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/footer.php:34
+msgid "%s created by %s."
+msgstr ""
+
+#. Text in function
+#: ward-pro/single.php:23
+msgid "%title &rarr;"
+msgstr ""
+
+#. Text in function
+#: ward-pro/single.php:22
+msgid "&larr; %title"
+msgstr ""
+
+#. Text in function
+#: ward-pro/comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: ward-pro/single.php:19
+msgid "&larr; Previous Image"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-footer.php:9
+#: ward-pro/functions.php:396
+#: ward-pro/functions.php:421
+msgid "(edit)"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/custom-css-editor.php:1
+msgid "/*
+Welcome to the Custom CSS editor!
+
+Please add all your custom CSS here and avoid modifying the core theme files, since that\\'ll make upgrading the theme problematic. Your custom CSS will be loaded after the theme\\'s stylesheets, which means that your rules will take precedence. Just add your CSS here for what you want to change, you don\\'t need to copy all the theme\\'s style.css content.
+*/"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-header.php:24
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "1 Column"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-header.php:24
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "1 Sidebar - Left"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "1 Sidebar - Right"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "1200px"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "2 Columns"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "2 Sidebars - Left"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "2 Sidebars - Right"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "2 Sidebars - Separate"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "3 Columns"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "4 Columns"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/404.php:13
+msgid "404 Error"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "6 Columns"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "640px"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "960px"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:318
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: ward-pro/sidebar-second.php:22
+#: ward-pro/sidebar.php:21
+msgid "Add your own widgets by going to the %sWidgets admin page%s."
+msgstr ""
+
+#. Text in echo
+#: ward-pro/sidebar-second.php:26
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/content-aside.php:12
+msgid "Aside"
+msgstr ""
+
+#. Text in function
+#: ward-pro/archive.php:27
+msgid "Author Archive for %s"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/widgets/widget-image-icon.php:75
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:63
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/archive.php:37
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Blue"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Boxed"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Button Color"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Button Link"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Button Text"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:82
+msgid "Choose the JSON file named \"theme-options-export.json\" to upload your theme options, then click the Upload file and import button below."
+msgstr ""
+
+#. Text in echo
+#: ward-pro/comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Copyright Notice"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/custom-css-editor.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/pointers.php:1
+#: ward-pro/library/custom-css-editor.php:1
+msgid "Custom CSS Editor"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/custom-css-editor.php:79
+msgid "Custom CSS updated."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/widgets/widget-image-icon.php:1
+msgid "Custom Text Widget with Image"
+msgstr ""
+
+#. Text in function
+#: ward-pro/archive.php:31
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Dark"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Display Author"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Display Categories"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Display Comment Count"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Display Date"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Display Home Page Posts"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Display Home Page Top Widget Area"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/custom-metaboxes.php:40
+msgid "Display at full width"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Documentation & FAQs"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:90
+msgid "Download export file"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:85
+msgid "Export Theme Options"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "Extended Footer"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Extended Footer Columns"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+#: ward-pro/functions.php:783
+msgid "First Sidebar"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Full Content"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Green"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Headers (h1, h2, h3, etc...)"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/custom-metaboxes.php:1
+msgid "Home Page Alignment"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "Home Page Top Area"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/custom-css-editor.php:81
+msgid "If you\\'re new to CSS, start with a %sbeginner tutorial%s."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/widgets/widget-image-icon.php:1
+msgid "Image & Text"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/widgets/widget-image-icon.php:67
+msgid "Image URL:"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:81
+msgid "Import Theme Options"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:76
+msgid "Import successful."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/import-export.php:1
+msgid "Import/Export"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/import-export.php:1
+msgid "Import/Export Theme Options"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Jumbo Headline"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+#: ward-pro/library/custom-metaboxes.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/custom-metaboxes.php:28
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Light"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Light Blue"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Link Color"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Link Hover Color"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Main Content"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Main Text"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Main Text Color"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/header.php:45
+msgid "Main menu"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: ward-pro/archive.php:33
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Nav Color"
+msgstr ""
+
+#. Text in function
+#: ward-pro/comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:322
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: ward-pro/single.php:20
+msgid "Next Image &rarr;"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "No Sidebars"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/index.php:32
+msgid "No posts to display"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/content-none.php:14
+msgid "No results were found. Please try again."
+msgstr ""
+
+#. Text in echo
+#: ward-pro/content-none.php:11
+msgid "Nothing found"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:88
+msgid "Once you\\'ve saved the download file, you can use the Import function in another WordPress installation to import the theme options from this site."
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-footer.php:9
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/functions.php:421
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:69
+msgid "Please select a file from your desktop."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Post Category"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Post Content Display"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Post Meta"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Post Title"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/single.php:17
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-status.php:18
+msgid "Posted on %1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-header.php:24
+msgid "Posts by %s"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/functions.php:316
+msgid "Posts navigation"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Read More Color"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content.php:29
+msgid "Read more &rarr;"
+msgstr ""
+
+#. Text in function
+#: ward-pro/index.php:35
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Red"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/custom-metaboxes.php:30
+msgid "Right"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/custom-css-editor.php:94
+msgid "Save Changes"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "Second Sidebar"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:67
+msgid "Security issue."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Site Layout"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Site Width"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/header.php:46
+msgid "Skip to content"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/404.php:16
+msgid "Sorry. We can't seem to find the page you're looking for."
+msgstr ""
+
+#. Text in echo
+#: ward-pro/content-status.php:12
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: ward-pro/archive.php:29
+msgid "Tag Archive for %s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-footer.php:9
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/pointers.php:1
+msgid "Take %s to the next level of customization with the Custom CSS Editor. Style your site without having to worry about loosing your changes when you update."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Teaser Excerpt"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:712
+msgid "The four boxes below are Image Text Widgets that have been added to the <em>Home Page Top Area</em>. Add your own by going to the %sWidgets admin page%s or remove this section completely under the <em>Layout panel</em> on the %sTheme Options page%s."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/pointers.php:1
+msgid "The greatest thing about %s is all of its amazing theme options. Take total control over the look and design of your site with a few clicks."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+#: ward-pro/library/pointers.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:87
+msgid "This format will contain your current theme options and custom CSS."
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "This is the extended footer widgetized area. Widgets will appear in three columns. All defaults widgets work great here."
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "This is the first sidebar widgetized area. All defaults widgets work great here."
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "This is the second sidebar widgetized area. All defaults widgets work great here."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/widgets/widget-image-icon.php:64
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/widgets/widget-image-icon.php:70
+msgid "URL:"
+msgstr ""
+
+#. Text in echo
+#: ward-pro/library/import-export.php:86
+msgid "When you click the button below, WordPress will create a JSON file for you to save to your computer."
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Widget Area Background Color"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Widget Area Icon"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:783
+msgid "Widgetized area on the home page directly below the navigation menu. Specifically designed for 4 text widgets. Must be turned on in the Layout options on the Theme Options admin page."
+msgstr ""
+
+#. Text in function
+#: ward-pro/archive.php:35
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/library/theme-options.php:1
+msgid "Yellow"
+msgstr ""
+
+#. Text in function
+#: ward-pro/functions.php:402
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-header.php:24
+msgid "by %s"
+msgstr ""
+
+#. Text in function
+#: ward-pro/content-header.php:24
+msgid "on"
+msgstr ""

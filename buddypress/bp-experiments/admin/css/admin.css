@@ -1,0 +1,56 @@
+body.toplevel_page_bp-experiments table.experiments th#status,
+body.toplevel_page_bp-experiments table.experiments th#members {
+	width: 10%;
+}
+
+body.toplevel_page_bp-experiments table.experiments th#last_active {
+	width: 15%;
+}
+
+#bp-experiments-edit-form input {
+	outline: medium none;
+	padding: 3px 8px;
+}
+#bp-experiments-edit-form input#bp-experiments-name {
+	font-size: 1.7em;
+	width: 100%;
+}
+#bp-experiments-edit-form input#bp-experiments-new-members {
+	width: 100%;
+	max-width: 90%;
+	border: 0;
+}
+.bp-experiments-settings-section {
+	margin-bottom: 15px;
+}
+.bp-experiments-member-type {
+	position: relative;
+	padding-bottom: 1.7em;
+}
+.bp-experiments-member-type > h4 {
+	margin-bottom: .5em;
+}
+ul.bp-experiment-delete-list {
+	list-style-type: disc;
+	margin: 4px 26px;
+}
+.bp-experiment-admin-pagination {
+	position: absolute;
+	text-align: right;
+	width: 100%;
+}
+.bp-experiment-admin-pagination.table-top {
+	top: 0;
+}
+.bp-experiment-admin-pagination.table-bottom {
+	bottom: 0;
+}
+.bp-experiment-admin-pagination-viewing {
+	color: #777;
+	font-size: 12px;
+	font-style: italic;
+}
+.bp-experiment-admin-pagination-links {
+	white-space: nowrap;
+	padding-left: 15px;
+}
