@@ -4,10 +4,10 @@
 
 <!-- Optionally use Animate.css -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.0.0/animate.min.css">
-<link rel="stylesheet" href="http://localhost/liquidslider/css/liquid-slider.css">
+<link rel="stylesheet" href="http://digitalbrain-test.lancs.ac.uk/liquidslider/css/liquid-slider.css">
 
 <!--link rel="stylesheet" href="http://localhost/wordpress/liquidslider/examples/assets/prism.css"-->
-<!--link rel="stylesheet" href="http://localhost/wordpress/liquidslider/examples/assets/styles.css"-->
+<!--link rel="stylesheet" href="http://digitalbrain-test.lancs.ac.uk/liquidslider/examples/assets/styles.css"-->
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
@@ -248,7 +248,7 @@ function removeVariable() {
     </td>
 </tr>
 
-</div>!--Variables-->
+</div><!--Variables-->
 
 <div id="experiment-settings">
 
@@ -313,7 +313,7 @@ function removeVariable() {
 </div>
 
 
-</div>!--Settings-->
+</div><!--Settings-->
 
 
 <div id="experiment-invites">
@@ -426,7 +426,7 @@ function removeVariable() {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js"></script>
-<script src="http://localhost/liquidslider/js/jquery.liquid-slider.min.js"></script>
+<script src="http://digitalbrain-test.lancs.ac.uk/liquidslider/js/jquery.liquid-slider.min.js"></script>
 <script>
 /**
  * If you need to access the internal property or methods, use this:
