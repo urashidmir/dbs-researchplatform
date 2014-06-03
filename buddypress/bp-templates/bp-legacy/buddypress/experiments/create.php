@@ -71,7 +71,7 @@ function addVariable() {
     
     var option2 = document.createElement("option");
     option2.text = "Binary";
-    option2.value = "sinary";
+    option2.value = "binary";
     
     var option3 = document.createElement("option");
     option3.text = "Count";
